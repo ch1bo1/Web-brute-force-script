@@ -8,7 +8,8 @@ Install Dependencies:
 
 Ensure you have Python installed on your system.
 Install the required dependencies using pip:
-Copy code
+
+code:
 pip install -r requirements.txt
 
 # Configure Script:
@@ -21,7 +22,8 @@ Modify the target_url, username, and password_list variables to match the login 
 Open a terminal or command prompt.
 Navigate to the directory containing the script.
 Run the script using Python:
-Copy code
+
+code:
 python script.py
 
 # View Results:
